@@ -5,7 +5,7 @@ This repository contains an automated workflow built with Snakemake to demonstra
 
 The code simulates drawing random samples of size `k` from a uniform range of numbers (from 1 to `n`). The Law of Large Numbers states that as the sample size (`k`) grows, the mean of the sample will converge closer to the true average of the entire population. The pipeline automatically runs these simulations, calculates the means across multiple repeats, and generates a boxplot visualizing this convergence.
 
-Below is the generated plot for a population range of `n=2000`, testing draws up to `k=5000`:
+Below is the generated plot for a population range of `n=2000`, testing draws up to `k=2000`:
 
 <img width="3600" height="1800" alt="plot" src="https://github.com/user-attachments/assets/ac5224d6-b7d9-4316-bf14-673901c1d76c" />
 
