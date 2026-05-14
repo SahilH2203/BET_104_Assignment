@@ -7,7 +7,7 @@ The code simulates drawing random samples of size `k` from a uniform range of nu
 
 Below is the generated plot for a population range of `n=2000`, testing draws up to `k=5000`:
 
-<img width="3600" height="1800" alt="plot" src="https://github.com/user-attachments/assets/5c268cd0-03f9-4934-b389-cd3e93ce31a2" />
+<img width="3600" height="1800" alt="plot" src="https://github.com/user-attachments/assets/ac5224d6-b7d9-4316-bf14-673901c1d76c" />
 
 
 ---
