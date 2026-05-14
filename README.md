@@ -25,6 +25,7 @@ The repository is organized as follows to separate configuration, logic, and out
 │   ├── generate_data.py    # Simulates random draws and saves means to CSV
 │   └── plot_data.py        # Reads all CSVs and plots the final visualization
 └── data/                   # Directory where generated CSVs are stored (created at runtime)
+└── README.md
 ```
 
 ## How to Run This Repository
